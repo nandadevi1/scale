@@ -1,0 +1,35 @@
+1. Maximum weighing: 3kg/2kg/1kg, accuracy 0.1g
+2. Three conversion units: g, ml, oz
+3. The weighing table is made of ABS plastic, which are convenient and durable, and easy to clean.
+4. The product is equipped with a high-precision pressure sensor, which is sensitive and accurate in weighing
+5. Invisible HD high-definition display, clear reading without reflection
+6. Touch buttons, easy to operate
+7. There are voice prompts for key operation
+8. With time recording function, positive timing and countdown.
+9. Automatic power display
+10. Low battery prompt, automatic shutdown, peeling function
+1 Specifications
+1-1.Unit:g.oz.ml
+1-2.Switch button:
+1-4.Manual on/off:Keep press on button for 2s
+1-5.Min weight indication:1g
+1-7.Graduation:0.1g,0.005oz,0.1ml
+1-8.Power on display:
+1-10.Beep sound:Along with operation of two buttons and ZERO.
+Operation:Onweighing mode,press to Tare and Zero
+2-1.When the USB charging cable is plugged in for charging,theleftdisplay shows the battery level and the recharging symbol
+2-2.After the battery is fully charged,it will automatically shutdown
+,——"isdisplayed as ful charged(2-5Hfullcharge once)
+2-4.When the timingfunction isin60S without any operation,it will automatically switch to battery level display
+2-5.Overload indication:
+2-6.Low voltage indication:Low than 3.0V indicated by
+2-7.Weight unstable indication:
+3.Unit Conversion
+5.Weighing Operation
+5-1.Place the scale on the hard and even platform,press 2s to turn on
+5-2.Put the object on the scale,it displays the weight,and touch them to Tare o Zero
+3-1.When power on,the default unit isg.
+4.Timer
+4-1.In the timing mode,press the TIMER key to timer,and short press the TIMER key again to pause or continue.Maximum timing is 99m:59s
+4-2.n the positive timing mode,double-dick the TMER keyto exit the positive timing mode and reset the timing
+4-3.Countdown:Three consecutive clicks of TMER key to enter the countdown setting mode,clickkey toswitch between minutes or seconds,click keyto set thetime.Maximum timing is 99m:59s 4-4.At the end of the countdown,there will be an audible alarm for one minute.Click any button tostopthe alarm prompt
